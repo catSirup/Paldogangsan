@@ -19,5 +19,7 @@ PC(Windows)
 - Kinect SDK
 
 ### 영상
+- 팔도강산 시연 영상
 [![Video Label](http://img.youtube.com/vi/8yBCdcLmy0Q/0.jpg)](https://youtu.be/8yBCdcLmy0Q?t=0s)<br>
+- Good Game Show 2015 전시 당시, KBS 뉴스에서 취재를 나와 시연 진행
 [![Video Label](http://img.youtube.com/vi/JWbwmWhZCns/0.jpg)](https://youtu.be/JWbwmWhZCns?t=0s)
